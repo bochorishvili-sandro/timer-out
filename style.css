@@ -1,0 +1,24 @@
+.timer{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+}
+#houres{
+    padding-left: 30px;
+}
+#minutes{
+    padding-left: 30px;
+}
+#seconds{
+    padding-left: 30px;
+}
+#timerover{
+    display:none ;
+
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: blue;
+}
